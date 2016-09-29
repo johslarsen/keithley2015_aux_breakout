@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name 2.54mm_Pin_Headers)(type Github)(uri https://github.com/johslarsen/2.54mm_Pin_Headers.pretty)(options allow_pretty_writing_to_this_dir=${KIPRJMOD}/lib/2.54mm_Pin_Headers.pretty)(descr ""))
+  (lib (name Connectors)(type Github)(uri https://github.com/johslarsen/Connectors.pretty)(options allow_pretty_writing_to_this_dir=${KIPRJMOD}/lib/Connectors.pretty)(descr ""))
+  (lib (name Integrated_Circuits)(type Github)(uri https://github.com/johslarsen/Integrated_Circuits.pretty)(options allow_pretty_writing_to_this_dir=${KIPRJMOD}/lib/Integrated_Circuits.pretty)(descr ""))
+  (lib (name Switches)(type Github)(uri https://github.com/johslarsen/Switches.pretty)(options allow_pretty_writing_to_this_dir=${KIPRJMOD}/lib/Switches.pretty)(descr ""))
+)
